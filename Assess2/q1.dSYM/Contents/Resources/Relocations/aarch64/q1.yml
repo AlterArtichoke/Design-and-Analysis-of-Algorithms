@@ -1,0 +1,13 @@
+---
+triple:          'arm64-apple-darwin'
+binary-path:     '/Users/kaytee/Documents/BroCodes/Design-and-Analysis-of-Algorithms/Assess2/q1'
+relocations:
+  - { offsetInCU: 0x26, offset: 0x26, size: 0x8, addend: 0x0, symName: _swap, symObjAddr: 0x0, symBinAddr: 0x10000373C, symSize: 0x8C }
+  - { offsetInCU: 0xA0, offset: 0xA0, size: 0x8, addend: 0x0, symName: _swap, symObjAddr: 0x0, symBinAddr: 0x10000373C, symSize: 0x8C }
+  - { offsetInCU: 0xE0, offset: 0xE0, size: 0x8, addend: 0x0, symName: _partition, symObjAddr: 0x8C, symBinAddr: 0x1000037C8, symSize: 0x11C }
+  - { offsetInCU: 0x15C, offset: 0x15C, size: 0x8, addend: 0x0, symName: _quickSort, symObjAddr: 0x1A8, symBinAddr: 0x1000038E4, symSize: 0x7C }
+  - { offsetInCU: 0x1B8, offset: 0x1B8, size: 0x8, addend: 0x0, symName: _read_students, symObjAddr: 0x224, symBinAddr: 0x100003960, symSize: 0x154 }
+  - { offsetInCU: 0x226, offset: 0x226, size: 0x8, addend: 0x0, symName: _binary_search, symObjAddr: 0x378, symBinAddr: 0x100003AB4, symSize: 0x114 }
+  - { offsetInCU: 0x2B0, offset: 0x2B0, size: 0x8, addend: 0x0, symName: _print_student, symObjAddr: 0x48C, symBinAddr: 0x100003BC8, symSize: 0x5C }
+  - { offsetInCU: 0x2D5, offset: 0x2D5, size: 0x8, addend: 0x0, symName: _main, symObjAddr: 0x4E8, symBinAddr: 0x100003C24, symSize: 0x1E4 }
+...
